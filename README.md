@@ -1,5 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png)](https://github.com/Shabari02)
-<h1 align="center">Hi 👋, I'm Shabari Nathan</h1>
+<h1 align="center" style="
+    font-family: Comfortaa, display;
+    font-size: 31px;
+    font-weight: 200;
+    color: rgba(0, 0, 0, 1);
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 2em;
+    letter-spacing: 0px;
+">Hi 👋, I'm Shabari Nathan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
