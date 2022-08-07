@@ -1,4 +1,4 @@
-<a href="https://github.com/Shabari02" target="_blank"> <img src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif"/> </a> 
+<a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
