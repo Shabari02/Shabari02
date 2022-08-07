@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabari02&label=Profile%20views&color=0e75b6&style=flat" alt="shabari02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shabari02&label=Profile%20views&color=0e75b6&style=flat" alt="shabari02" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
