@@ -1,9 +1,12 @@
-<a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> 
+<kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> </kbd>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
-<img align="right" style="border-radius:50px;" src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif">
+<table align="right"><tr><td>
+<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=390px >
+</td></tr></table>
+
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
@@ -16,7 +19,7 @@
 
 - 📫 How to reach me **lkshabari02@gmail.com**
 
-- ⚡ Fun fact **I play games in my free time.**
+- ⚡ Fun fact **In my free time, I do play games and watch animes.**
 
 
 
@@ -71,3 +74,4 @@
     <img src="https://komarev.com/ghpvc/?username=Shabari02">
 </a>
 <a href="https://github.com/Shabari02?tab=followers"><img src="https://img.shields.io/github/followers/Shabari02?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://www.freecodecamp.org/shabari02"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shabari02?label=FreeCodeCamp%20"></a>
