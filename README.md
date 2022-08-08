@@ -38,6 +38,14 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+## Tech profiles:
+
+<p align="left"> 
+    <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a>
+    <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-red?style=for-the-badge&logo=Cssbattle"/> </a>
+    <a href="https://www.frontendmentor.io/profile/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?style=for-the-badge&logo=frontendmentor"/> </a>
+ </p>
+
 <p align="center" style="margin-top:70px; ">
     <a href="https://github.com/Shabari02/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabari02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
