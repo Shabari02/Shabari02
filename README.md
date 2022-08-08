@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 <table align="right"><tr><td>
-<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=390px >
+<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=350px >
 </td></tr></table>
 
 ## 🙋‍♂️ About Me
