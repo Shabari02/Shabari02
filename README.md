@@ -47,6 +47,7 @@
      <a href="https://www.freecodecamp.org/shabari02" target="_blank"> <img src="https://img.shields.io/badge/Freecodecamp-Profile-ff69b4?style=for-the-badge&logo=freecodecamp"/> </a>
       <a href="https://codepen.io/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codepen-Profile-1B1A17?style=for-the-badge&logo=codepen"/> </a>
      <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a>
+     <a href="https://www.sololearn.com/profile/21139361" target="_blank"> <img src="https://img.shields.io/badge/Sololearn-Profile-E2DCC8?style=for-the-badge&logo=sololearn"/> </a>
  </p>
 
 <p align="center" style="margin-top:70px; ">
