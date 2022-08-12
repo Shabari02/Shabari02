@@ -49,7 +49,7 @@
       <a href="https://codepen.io/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codepen-Profile-1B1A17?style=for-the-badge&logo=codepen"/> </a>
      <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a>
      <a href="https://www.sololearn.com/profile/21139361" target="_blank"> <img src="https://img.shields.io/badge/Sololearn-Profile-E2DCC8?style=for-the-badge&logo=sololearn"/> </a>
-     <a href="https://monkeytype.com/" target="_blank"> <img src="https://img.shields.io/badge/Monkeytype-Profile-blue?style=for-the-badge&logo=monkeytype"/> </a>
+     <a href="https://monkeytype.com/profile/eM1a4eNTjXYnRKZMAL5Cw8MOyFC3" target="_blank"> <img src="https://img.shields.io/badge/Monkeytype-Profile-blue?style=for-the-badge&logo=monkeytype"/> </a>
  </p>
 
 <p align="center" style="margin-top:70px; ">
