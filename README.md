@@ -90,3 +90,9 @@
 </a>
 <a href="https://github.com/Shabari02?tab=followers"><img src="https://img.shields.io/github/followers/Shabari02?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://www.freecodecamp.org/shabari02"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shabari02?label=FreeCodeCamp%20"></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
