@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-[![Shabari Nathan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shabari02&theme=react-dark)](https://github.com/Shabari02/github-readme-activity-graph)
+[![Shabari Nathan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shabari02&theme=react-dark)](https://github.com/Shabari02?tab=repositories)
 
 <br/>
 <br/>
