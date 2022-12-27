@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Shabari02/github-readme-activity-graph"><img alt="Shabari Nathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shabari02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Shabari Nathan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shabari02&theme=react-dark)](https://github.com/Shabari02/github-readme-activity-graph)
 
 <br/>
 <br/>
