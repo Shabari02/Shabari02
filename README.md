@@ -32,8 +32,9 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/Sass-2B4865?style=for-the-badge&logo=sass&logoColor=FF87B2"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=0B1120"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a> 
-    <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=**white**"/> </a>
+    <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> </a>
+     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React js-282C34?style=for-the-badge&logo=jquery&logoColor=white"/> </a> 
+<!--     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=**white**"/> </a> -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> </a> 
 </p>
 
