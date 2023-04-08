@@ -24,19 +24,7 @@
 
 
 ## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/Sass-2B4865?style=for-the-badge&logo=sass&logoColor=FF87B2"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=0B1120"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a> 
-    <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> </a>
-     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React js-282C34?style=for-the-badge&logo=jquery&logoColor=white"/> </a> 
-<!--     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=**white**"/> </a> -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> </a> 
-</p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
@@ -45,13 +33,13 @@
 
 <p align="left"> 
     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a>
-    <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a>
+<!--     <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a> -->
     <a href="https://www.frontendmentor.io/profile/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?style=for-the-badge&logo=frontendmentor"/> </a>
      <a href="https://www.freecodecamp.org/shabari02" target="_blank"> <img src="https://img.shields.io/badge/Freecodecamp-Profile-ff69b4?style=for-the-badge&logo=freecodecamp"/> </a>
       <a href="https://codepen.io/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codepen-Profile-1B1A17?style=for-the-badge&logo=codepen"/> </a>
-     <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a>
-     <a href="https://www.sololearn.com/profile/21139361" target="_blank"> <img src="https://img.shields.io/badge/Sololearn-Profile-E2DCC8?style=for-the-badge&logo=sololearn"/> </a>
-     <a href="https://monkeytype.com/profile/eM1a4eNTjXYnRKZMAL5Cw8MOyFC3" target="_blank"> <img src="https://img.shields.io/badge/Monkeytype-Profile-blue?style=for-the-badge&logo=monkeytype"/> </a>
+<!--      <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a> -->
+<!--      <a href="https://www.sololearn.com/profile/21139361" target="_blank"> <img src="https://img.shields.io/badge/Sololearn-Profile-E2DCC8?style=for-the-badge&logo=sololearn"/> </a> -->
+<!--      <a href="https://monkeytype.com/profile/eM1a4eNTjXYnRKZMAL5Cw8MOyFC3" target="_blank"> <img src="https://img.shields.io/badge/Monkeytype-Profile-blue?style=for-the-badge&logo=monkeytype"/> </a> -->
  </p>
 
 <p align="center" style="margin-top:70px; ">
