@@ -50,20 +50,20 @@
 </p>
 
 ## 📊 My Github Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Shabari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
-  <br/>
-    <a href="https://github.com/Shabari02/github-readme-stats"><img alt="Shabari Nathan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shabari02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Shabari02/github-readme-stats"><img alt="Shabari Nathan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+<br>
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shabari02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
 <br/>
 
 [![Shabari Nathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shabari02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
+
 
 ## Connect with me:
 <p align="left">
