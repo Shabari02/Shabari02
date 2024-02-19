@@ -104,6 +104,7 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></td>
+<!-- 			<td><img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/puppet_logo_icon_168887.png" alt="Puppet" title="Puppet"/></td> -->
 <!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></td> -->
 		</tr>
 	</table>
