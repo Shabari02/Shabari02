@@ -1,3 +1,4 @@
+
 <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> </kbd> 
  <!-- <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> </a> </kbd> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
@@ -34,6 +35,7 @@
 		</tr>
 	</table>
 </div>
+
 
 
 
@@ -148,13 +150,13 @@
 
 <p align="center" style="margin-top:70px; ">
     <a href="https://github.com/Shabari02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shabari02&theme=radical&border=7F3FBF&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shabari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabari02&theme=radical&border=7F3FBF&background=0D1117"/>
     </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shabari02">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabari02&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/Shabari02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabari02&theme=radical" alt="Shabari's GitHub Contribution"/>
   </a>
 </p>
 
@@ -162,17 +164,22 @@
 
 
 <a> 
-    <a href="https://github.com/shabari02"><img alt="Shabari Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shabari02&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/shabari02"><img alt="Shabari Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shabari02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Shabari02"><img alt="Shabari Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Shabari02&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
+  <a href="https://github.com/shabari02"><img alt="Shabari Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shabari02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 <br/>
 
-![Shabarinathan Graph](https://github-readme-activity-graph.vercel.app/graph?username=shabari02&custom_title=Shabari%20Nathan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shabarinathan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shabari02&custom_title=Shabari%20Nathan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br/>
 <br/>
 
+## Currently Listening To 🎧
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=${{ secrets.SPOTIFY_USER_ID }}&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=${{ secrets.SPOTIFY_USER_ID }}&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314a36nhz3pqsn3pviqjwfdkwd5i&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=314a36nhz3pqsn3pviqjwfdkwd5i&redirect=true)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
