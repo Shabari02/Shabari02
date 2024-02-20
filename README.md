@@ -175,7 +175,7 @@
 <br/>
 <br/>
 
-## Currently Listening To 🎧
+## 🎧 Currently Listening To
 
 <div style="text-align: center;" align="center">
 	  <a href="https://spotify-github-profile.vercel.app/api/view?uid=314a36nhz3pqsn3pviqjwfdkwd5i&redirect=true" target="_blank">
