@@ -103,9 +103,9 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins"/></td>
 <!-- 			<td><img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/puppet_logo_icon_168887.png" alt="Puppet" title="Puppet"/></td> -->
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></td> -->
+<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform"/></td>  -->
 		</tr>
 	</table>
 </div>
@@ -117,8 +117,7 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></td>  -->
+<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td> -->
 		</tr>
 	</table>
 </div>
@@ -128,7 +127,7 @@
 
 ## Tech profiles:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a>
  <a href="https://leetcode.com/Shabari02/" target="_blank"> <img src="https://img.shields.io/badge/Leetcode-Profile-yellow?style=for-the-badge&logo=leetcode"/> </a>
     <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a>
@@ -140,24 +139,32 @@
      <a href="https://monkeytype.com/profile/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Monkeytype-Profile-blue?style=for-the-badge&logo=monkeytype"/> </a>
  </p>
 
+ ## 📊 My Github Stats:
+
 <p align="center" style="margin-top:70px; ">
     <a href="https://github.com/Shabari02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabari02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shabari02&theme=radical&border=7F3FBF&background=0D1117"/>
     </a>
 </p>
 
-## 📊 My Github Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Shabari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+<p align="center">
+  <a href="https://github.com/shabari02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabari02&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shabari02&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br/>
+
+
+
+<a> 
+    <a href="https://github.com/shabari02"><img alt="Shabari Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shabari02&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/shabari02"><img alt="Shabari Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shabari02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 <br/>
 
-[![Shabari Nathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shabari02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Shabarinathan Graph](https://github-readme-activity-graph.vercel.app/graph?username=shabari02&custom_title=Shabari%20Nathan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br/>
 <br/>
 
