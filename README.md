@@ -139,6 +139,7 @@
 ## Tech profiles:
 
 <p align="center"> 
+	<a href="https://gitlab.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Gitlab-Profile-orange?style=for-the-badge&logo=gitlab"/> </a>
     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a>
  <a href="https://leetcode.com/Shabari02/" target="_blank"> <img src="https://img.shields.io/badge/Leetcode-Profile-yellow?style=for-the-badge&logo=leetcode"/> </a>
     <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a>
