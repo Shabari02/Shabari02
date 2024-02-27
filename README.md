@@ -116,7 +116,7 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins"/></td>
 			<td><img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/puppet_logo_icon_168887.png" alt="Puppet" title="Puppet"/></td>
-<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform"/></td>  -->
+			<td><img width="50" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform"/></td> 
 		</tr>
 	</table>
 </div>
