@@ -45,9 +45,11 @@
 <div>
 	<table>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Typescript" title="Typescript"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/></td>
+<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=cs" alt="csharp" title="csharp"/></td>
+		        <td><img width="50" src="https://skillicons.dev/icons?i=typescript" alt="Typescript" title="Typescript"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/></td> -->
 		</tr>
@@ -59,18 +61,18 @@
 <div >
 	<table>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS"/></td>
 		</tr>
 		<tr>
 <!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=jquery" alt="Jquery" title="Jquery"/></td> -->
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></td>
 <!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></td> -->
 <!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></td> -->
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></td>
 <!-- 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/></td>
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/></td> -->
 		</tr>
@@ -114,8 +116,8 @@
 <div >
 	<table>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins"/></td>
 			<td><img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/puppet_logo_icon_168887.png" alt="Puppet" title="Puppet"/></td>
