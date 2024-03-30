@@ -84,13 +84,15 @@
 <div >
 	<table>
 		<tr>
-			<td><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven"/></td> 
 			<td><img width="50" src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate"/></td> 
    			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></td>
- <!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td> -->
+ 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td> 
+		</tr>
+		<tr>
+  			<td><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></td>
 		</tr>
 	</table>
 </div>
@@ -130,11 +132,17 @@
 <div >
 	<table>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="Eclipse" title="Eclipse"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
+ 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></td> 	
 <!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td> -->
+		</tr>
+		<tr>
+<!--			<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim"/></td> -->
+			<td><img width="50" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></td>
+			<td><img width="50" src="https://media.imgcdn.org/repo/2023/03/mobaxterm/MobaXterm-Logo.png" alt="Mobaxterm" title="Mobaxterm"/></td>
 		</tr>
 	</table>
 </div>
