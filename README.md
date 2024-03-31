@@ -4,13 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
-
-
-## 🙋‍♂️ About Me
-
 <table align="right"><tr><td>
 <img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=390px >
 </td></tr></table>
+
+## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
