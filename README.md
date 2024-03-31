@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 <table align="right"><tr><td>
-<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=300px >
+<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=290px >
 </td></tr></table>
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
