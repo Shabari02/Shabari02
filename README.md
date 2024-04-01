@@ -94,6 +94,10 @@
 		<tr>
   			<td><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></td>
+		<!--	<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
+   			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></td> -->
 		</tr>
 	</table>
 </div>
