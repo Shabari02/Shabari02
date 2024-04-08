@@ -48,8 +48,8 @@
 		<tr>
 			<td><img width="50" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=typescript" alt="Typescript" title="Typescript"/></td>
 <!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=cs" alt="csharp" title="csharp"/></td>
-		        <td><img width="50" src="https://skillicons.dev/icons?i=typescript" alt="Typescript" title="Typescript"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/></td> -->
