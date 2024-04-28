@@ -70,8 +70,8 @@
 		</tr>
 		<tr>
 <!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=jquery" alt="Jquery" title="Jquery"/></td> -->
+			<td><img width="50" src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular"/></td> 
 			<td><img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></td>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></td> -->
 <!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></td> -->
 			<td><img width="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></td>
 <!-- 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/></td>
