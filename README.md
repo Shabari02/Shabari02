@@ -1,4 +1,5 @@
 
+
 <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> </kbd> 
  <!-- <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> </a> </kbd> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
@@ -158,6 +159,7 @@
 ## Tech profiles:
 
 <p align="center"> 
+	<a href="https://app.daily.dev/shabari02"><img src="https://api.daily.dev/devcards/v2/GpD2sMMDC2E9zcveVz51R.png?type=wide&r=oy6" width="652" alt="Shabari Nathan's Dev Card"/></a><br><hr>
 	<a href="https://gitlab.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Gitlab-Profile-orange?style=for-the-badge&logo=gitlab"/> </a>
     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a>
  <a href="https://leetcode.com/Shabari02/" target="_blank"> <img src="https://img.shields.io/badge/Leetcode-Profile-yellow?style=for-the-badge&logo=leetcode"/> </a>
