@@ -63,10 +63,10 @@
 <div >
 	<table>
 		<tr>
-			<td><img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/></td>
+			<!-- <td><img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/></td>
+			<td><img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/></td> -->
 			<td><img width="50" src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></td>
+			<!-- <td><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></td> -->
 			<td><img width="50" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS"/></td>
 		</tr>
 		<tr>
@@ -159,7 +159,7 @@
 <!-- 		<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td> -->
 			<td><img width="50" src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim"/></td>
 			<td><img width="50" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></td>
-			<td><img width="50" src="https://media.imgcdn.org/repo/2023/03/mobaxterm/MobaXterm-Logo.png" alt="Mobaxterm" title="Mobaxterm"/></td>
+			<!-- <td><img width="50" src="https://media.imgcdn.org/repo/2023/03/mobaxterm/MobaXterm-Logo.png" alt="Mobaxterm" title="Mobaxterm"/></td> -->
 		</tr>
 	</table>
 </div>
