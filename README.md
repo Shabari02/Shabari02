@@ -1,9 +1,9 @@
 
 
-<kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/83392438/176866853-ca910013-f924-4ba2-b97f-d0ed186828f1.png"/> </a> </kbd> 
+<kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/> </a> </kbd> 
  <!-- <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> </a> </kbd> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
-<h3 align="center">I'm a passionate Web Developer from India.</h3>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 <table align="right"><tr><td>
 <img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=390px >
