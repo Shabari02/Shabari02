@@ -2,22 +2,33 @@
 
 <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/> </a> </kbd> 
  <!-- <kbd><a href="https://github.com/Shabari02" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> </a> </kbd> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabari Nathan</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shabarinathan</h1>
+<h3 align="center">Software Developer • Java & Spring Boot • Microservices • Cloud • AI/Automation</h3>
+<h3 align="center">
+<p>
+ <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Shabari02">
+</a>
+<a href="https://github.com/Shabari02?tab=followers"><img src="https://img.shields.io/github/followers/Shabari02?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://www.freecodecamp.org/shabari02"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shabari02?label=FreeCodeCamp%20"></a> -->
+</p>
+</h3>
 
 <table align="right"><tr><td>
-<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=390px >
+<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=440px >
 </td></tr></table>
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+I'm a Software Developer from India, working primarily with **Java, Spring Boot, microservices, databases, cloud infrastructure, and payment technology**.
 
-- 🌱 I’m currently learning **JAVA Stack.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 🔭 Working with **Java / Spring Boot microservices**
+- 💳 Working in the **payment processing / financial technology** domain
+- 🧩 Interested in **distributed systems, system design and scalable backend architecture**
+- 🤖 Building projects around **AI, RAG, LLMs and developer automation**
+- 🌱 Continuously learning **system design, algorithms, cloud architecture and modern backend technologies**
+- 🤝 Interested in contributing to **open-source projects**
+- ⚡ I enjoy understanding how systems work internally and turning that knowledge into practical solutions
 
 
 - 📫 How to reach me :
@@ -41,131 +52,45 @@
 
 
 
-## 🚀 Languages and Tools:
+## 🛠️ Tech Stack
 
-### ***Languages***
-<div>
-	<table>
-		<tr>
-			<td><img width="50" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=typescript" alt="Typescript" title="Typescript"/></td>
-<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=cs" alt="csharp" title="csharp"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/></td> -->
-		</tr>
-	</table>
-</div>
+### Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+</p>
 
-### ***Front-end***
-<div >
-	<table>
-		<tr>
-			<!-- <td><img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/></td>
-			<!-- <td><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" title="Tailwind CSS"/></td>
-		</tr>
-		<tr>
-<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=jquery" alt="Jquery" title="Jquery"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular"/></td> 
-			<td><img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></td>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></td>
-<!-- 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/></td> -->
-		</tr>
-	</table>
-</div>
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,sass" />
+</p>
 
-### ***Back-end***
-<div >
-	<table>
-		<tr>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven"/></td> 
-			<td><img width="50" src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate"/></td>  -->
-   			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></td>
- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td> 
-		</tr>
-		<tr>
-  			<td><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></td>
-		<!--	<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
-   			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></td> -->
-		</tr>
-	</table>
-</div>
+### Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,express,nodejs" />
+</p>
 
-### ***Database***
-<div >
-	<table>
-		<tr>
-     			<td><img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" title="mongoDB"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
-                        <td><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></td>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" alt="Cassandra" title="Cassandra"/></td> -->
-<!--                         <td><img width="50" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase"/></td> -->
-		</tr>
-	</table>
-</div>
+### Databases
 
-### ***Cloud***
-<div >
-	<table>
-<!-- 		<tr>
-     			<td><img width="50" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/></td> -->
-     			<td><img width="50" src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="GCP"/></td>
-     			<td><img width="50" src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" title="kubernetes"/></td>
-		</tr>
-	</table>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
 
+### Cloud, DevOps & Infrastructure
 
-### ***Version Control & Tools***
-<div >
-	<table>
-		<tr>
-			<td><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></td>
-		<!-- 	<td><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></td> -->
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins"/></td>
-			<td><img width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/puppet_logo_icon_168887.png" alt="Puppet" title="Puppet"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform"/></td> 
-		</tr>
-	</table>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform,jenkins" />
+</p>
 
-### ***Others***
-<div >
-	<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-<!-- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="Eclipse" title="Eclipse"/></td> -->
- 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></td> 	
-<!-- 			<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td> -->
-		</tr>
-		<tr>
-<!-- 		<td><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></td> -->
-			<td><img width="50" src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></td>
-			<!-- <td><img width="50" src="https://media.imgcdn.org/repo/2023/03/mobaxterm/MobaXterm-Logo.png" alt="Mobaxterm" title="Mobaxterm"/></td> -->
-		</tr>
-	</table>
-</div>
+### Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,idea,vscode,postman" />
+</p>
 
-<br/>
+---
 
 ## Tech profiles:
 
@@ -212,6 +137,26 @@
 <br/>
 <br/>
 
+---
+
+## 📚 Currently Learning
+
+I'm actively strengthening my fundamentals in:
+
+- 🏗️ **System Design**
+- 🧠 **Data Structures & Algorithms**
+- ☕ **Effective Java**
+- 🎯 **Design Patterns**
+- ☁️ **Cloud Architecture**
+- 🔄 **Distributed Systems**
+- 🗄️ **Database Design & Performance**
+- 🤖 **AI / RAG / LLM applications**
+
+  
+<p>I enjoy going beyond simply making software work — I'm interested in understanding why a system behaves the way it does, how it scales, where it fails, and how to design it better.</p>
+
+---
+
 <!-- ## 🎧 Currently Listening To
 
 <div style="text-align: center;" align="center">
@@ -220,12 +165,9 @@
   </a>
 </div>
 -->
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shabari02">
-</a>
-<a href="https://github.com/Shabari02?tab=followers"><img src="https://img.shields.io/github/followers/Shabari02?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://www.freecodecamp.org/shabari02"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shabari02?label=FreeCodeCamp%20"></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+
+### 💡 Build. Learn. Break. Understand. Improve.
+
+</div>
