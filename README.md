@@ -14,9 +14,9 @@
 </p>
 </h3>
 
-<table align="right"><tr><td>
-<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=440px >
-</td></tr></table>
+<!-- <table align="right"><tr><td>
+<img align="right"  src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=340px >
+</td></tr></table> -->
 
 ## 🙋‍♂️ About Me
 
